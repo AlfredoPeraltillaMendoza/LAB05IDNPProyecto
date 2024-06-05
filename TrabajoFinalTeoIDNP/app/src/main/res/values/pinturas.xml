@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pinturas">
+        <item>Nombre de la pintura 1</item>
+        <item>Nombre de la pintura 2</item>
+        <item>Nombre de la pintura 3</item>
+        <item>Nombre de la pintura 4</item>
+        <item>Nombre de la pintura 5</item>
+        <item>Nombre de la pintura 6</item>
+        <item>Nombre de la pintura 7</item>
+        <item>Nombre de la pintura 8</item>
+        <item>Nombre de la pintura 9</item>
+        <item>Nombre de la pintura 10</item>
+        <!-- Agrega más nombres de pinturas según necesites -->
+    </string-array>
+
+    <string-array name="descripciones">
+        <item>Descripción de la pintura 1</item>
+        <item>Descripción de la pintura 2</item>
+        <item>Descripción de la pintura 3</item>
+        <item>Descripción de la pintura 4</item>
+        <item>Descripción de la pintura 5</item>
+        <item>Descripción de la pintura 6</item>
+        <item>Descripción de la pintura 7</item>
+        <item>Descripción de la pintura 8</item>
+        <item>Descripción de la pintura 9</item>
+        <item>Descripción de la pintura 10</item>
+        <!-- Agrega más descripciones según necesites -->
+    </string-array>
+</resources>
